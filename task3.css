@@ -1,7 +1,25 @@
-.task30{background-color:#00ffff;
+body{background-color:#68cdd5;
 }
-.task31{margin:0 auto;
-    width:181px;
-    height:70px;
-    background-image: url("G://front end/picture/biglogo.png");
+.task31{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.task32{
+    margin:100px auto;
+    text-align: center;
+}
+p{
+    color:#fff;
+    text-align: center;
+    padding:18%;
+}
+.task33{
+    float:left;
+    width: 119px;
+    height: 126px;
+}
+.task34{
+    float:right;
+    width: 104px;
+    height: 126px;
 }
